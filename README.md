@@ -8,7 +8,8 @@
 
 - Html , Css ve Js frameworkleri ile hazırlandı.
 
-# Ekran Görüntüsü :
+![image](https://github.com/ErenCanKONUK/All-Navbar-Project/assets/97176491/79dc4b79-88e9-4f56-b7af-7e741d541bb8)
+
 
 # Navbar --- 1
 - Hover Effect kullanılan bir navbar çalışmasıdır.
